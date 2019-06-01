@@ -121,10 +121,16 @@ Evidence Collect Together To Prove To MySelf That I have Achieved This Goal.
 - Screen recording of me using this process during a process review workshop.
   - [Get Middle String](https://drive.google.com/file/d/1D9L_BFuC5YJjwWv0HVcRlxIjvZZZ6w-H/view?usp=sharing)
 
-- Commit histories that tell the test-driven process story of my applications
+- Commit Histories Showing TDD Process.
+  - TakeAway Challenge.
+![q](https://user-images.githubusercontent.com/37377831/58746726-8f247e00-8459-11e9-8c96-d0c8fb711ae5.png)
 
-- Link to Bowling Scorecard
-- Link to Thermostat commit history
+> Highlighted in red are the processes which includes, ``writing tests``, ``passing test`` and ``refactoring``.
+
+![ab](https://user-images.githubusercontent.com/37377831/58746748-cabf4800-8459-11e9-8f95-d772836a7ca8.png)
+
+  - Bowling Challenge.
+  ![b](https://user-images.githubusercontent.com/37377831/58746789-44573600-845a-11e9-8620-1a88346c5080.png)
 
 
 <h4 align='center'>
