@@ -30,9 +30,8 @@ To prove to myself that I can program fluently and learn any language because ``
 
   - [New Sumary APP](https://github.com/SarpongAbasimi/NewsSummaryApp).
   To push myself even further, I decided to use ``React Js `` for one of the ``weekend challenges `` at Makers. I couldn't believe that in just a day, I was able to build a ``news summary App``, fully tested with ``cypress`` which works perfectly.
-  
 
-============================
+
 
 **[FeedBack](https://github.com/SarpongAbasimi/Pair-Progamming-FeedBack)**
 
