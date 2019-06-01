@@ -7,7 +7,7 @@ My Learning Goals At Makers.
 <h1>
 
 
-<h4 align='center'>
+<h4>
  I can make anything
 <h4>
 
@@ -20,14 +20,14 @@ My Learning Goals At Makers.
 - [I have a methodical approach to solving problems]()
 
 
-<h4 align='center'>
+<h4>
 I'm equipped for long term growth
 <h4>
 
 - [I manage my own wellbeing]()
 - [I can learn anything by myself]()
 
-<h4 align='center'>
+<h4>
 I help my teams succeed
 <h4>
 
@@ -37,7 +37,7 @@ I help my teams succeed
 - [I can justify the way I work]()
 - [I grow collaboratively]()
 
-<h4 align='center'>
+<h4>
 Weekly Goals
 <h4>
 
