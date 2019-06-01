@@ -107,19 +107,19 @@ Evidence Collect Together To Prove To MySelf That I have Achieved This Goal.
 <h4>
  
 - My TDD process.
-  - [Asyn TDD with Makers Coach Alice.](https://github.com/SarpongAbasimi/TestingWithJest)
-  - [Process Review](https://github.com/SarpongAbasimi/ProcessWorkShopKatas)
-  - [FizzBuzz Python](https://github.com/SarpongAbasimi/FizzBuzz-Python-JavaScript-More-)
-  - [FizzBuzz JavaScript](https://github.com/SarpongAbasimi/FizzBuzz-Python-JavaScript-More-/tree/master/fizzBuzzJs)
-  - [Bowling Challenge JavaScript](https://github.com/SarpongAbasimi/bowling-challenge)
-  - [Bowling Challenge Python Attempt](https://github.com/SarpongAbasimi/BowlingScoreCardPython)
+  - [Asyn TDD with Makers Coach Alice.](https://github.com/SarpongAbasimi/TestingWithJest).
+  - [Process Review](https://github.com/SarpongAbasimi/ProcessWorkShopKatas).
+  - [FizzBuzz Python](https://github.com/SarpongAbasimi/FizzBuzz-Python-JavaScript-More-).
+  - [FizzBuzz JavaScript](https://github.com/SarpongAbasimi/FizzBuzz-Python-JavaScript-More-/tree/master/fizzBuzzJs).
+  - [Bowling Challenge JavaScript](https://github.com/SarpongAbasimi/bowling-challenge).
+  - [Bowling Challenge Python Attempt](https://github.com/SarpongAbasimi/BowlingScoreCardPython).
   - [Thermostat App](https://github.com/SarpongAbasimi/ThermostatJs).
 
 - Link to process.
   - [Process review Kata](https://github.com/SarpongAbasimi/ProcessWorkShopKatas)
 
 - Screen recording of me using this process during a process review workshop.
-  - [Get Middle String](https://drive.google.com/file/d/1D9L_BFuC5YJjwWv0HVcRlxIjvZZZ6w-H/view?usp=sharing)
+  - [Get Middle String](https://drive.google.com/file/d/1D9L_BFuC5YJjwWv0HVcRlxIjvZZZ6w-H/view?usp=sharing).
 
 - Commit Histories Showing TDD Process.
   - TakeAway Challenge.
