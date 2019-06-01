@@ -13,30 +13,31 @@ My Goals
  I can make anything
 <h4>
 
-[I can TDD anything]()
-I can program fluently
-I can debug anything
-I can model anything
-I can refactor anything
-I have a methodical approach to solving problems
+[I can TDD anything](https://github.com/SarpongAbasimi/TheMakersPort/tree/master/tddAnyThing)
+
+[I can program fluently]()
+[I can debug anything]()
+[I can model anything]()
+[I can refactor anything]()
+[I have a methodical approach to solving problems]()
 
 
 <h4 align='center'>
 I'm equipped for long term growth
 <h4>
 
-I manage my own wellbeing
-I can learn anything by myself
+[I manage my own wellbeing]()
+[I can learn anything by myself]()
 
 <h4 align='center'>
 I help my teams succeed
 <h4>
 
 
-I use an agile product development process
-I write code that is easy to change
-I can justify the way I work
-I grow collaboratively
+[I use an agile product development process]()
+[I write code that is easy to change]()
+[I can justify the way I work]()
+[I grow collaboratively]()
 
 <h4 align='center'>
 Weekly Goals
