@@ -127,7 +127,7 @@ Evidence Collect Together To Prove To MySelf That I have Achieved This Goal.
 
 > Highlighted in red are the processes which includes, ``writing tests``, ``passing test`` and ``refactoring``.
 
-![ab](https://user-images.githubusercontent.com/37377831/58746748-cabf4800-8459-11e9-8f95-d772836a7ca8.png)
+  - ![ab](https://user-images.githubusercontent.com/37377831/58746748-cabf4800-8459-11e9-8f95-d772836a7ca8.png)
 
   - Bowling Challenge.
   ![b](https://user-images.githubusercontent.com/37377831/58746789-44573600-845a-11e9-8620-1a88346c5080.png)
