@@ -31,11 +31,11 @@ To prove to myself that I can program fluently and learn any language because ``
   - [New Sumary APP](https://github.com/SarpongAbasimi/NewsSummaryApp).
   To push myself even further, I decided to use ``React Js `` for one of the ``weekend challenges `` at Makers. I couldn't believe that in just a day, I was able to build a ``news summary App``, fully tested with ``cypress`` which works perfectly.
 
+===============
 
-<h4>
-[FeedBack](https://github.com/SarpongAbasimi/Pair-Progamming-FeedBack)
-</h4>
+**[FeedBack](https://github.com/SarpongAbasimi/Pair-Progamming-FeedBack)**
 
+=============
 The other side of progamming fluently, is the ability to translate human language such as specification or user stories into code and to write code using the best practices such as Test Driven Development, Don’t Repeat Yourself, and Single Responsibility. In other words, keep in mind the person that may use your user interface as a user and your code as a software developer.
 
 Having faced different challenges at Makers for setting up ``Travis `` to ``Database setup`` to ``Making a facebook clone `` and ``paring with different people everyday ``, I have learnt how to approach programming challenges, ``craft programmes`` and on top of all ``work in a team ``and contribute to the ``success of my team``. This why I say that I can programme fluently.
