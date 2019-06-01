@@ -1,5 +1,5 @@
 <h1 align='center'>
-What Do I Mean By I Can TDD Anything ?
+What Do I Mean By I Can TDD Anything ?.
 </h1>
 
 ```
@@ -58,7 +58,7 @@ Normally, TDD is implemented in theree stages.
 - Green.
 - Refactor.
 
-But obviously, this code is too simple to refactor at the cureent stage.
+But obviously, this code is too simple to refactor at the current stage.
 
 > An example of when I implemented the full TDD cycle can be found [here](https://github.com/SarpongAbasimi/ProcessWorkShopKatas/tree/master/middle_string) , [here](https://github.com/SarpongAbasimi/FizzBuzz-Python-JavaScript-More-) and [here](https://github.com/SarpongAbasimi/FizzBuzz-Python-JavaScript-More-/tree/master/fizzBuzzJs)
 
@@ -66,33 +66,35 @@ In short when I say, I can TDD anything thing, what I really mean is that, I can
 - Write the user stories which gives me an idea of what to test.
 - Create a diagram of the classes, properties and functions needed for the first feature and unit test.
 - Follow the red, green, refactor cycle:
-- Red phase
+- Red phase.
 
 ```
 Write a failing feature test.
 Write a failing unit test, matching the feature test.
 ```
-- Green phase
+- Green phase.
 
 ```
-Write the least amount of code to make the unit test pass
-Run the tests and check if unit test passes. If not, repeat green phase
+Write the least amount of code to make the unit test pass.
+Run the tests and check if unit test passes. If not, repeat green phase.
 
 ```
 
-- Refactor phase
+- Refactor phase.
 
 ```
-Refactor code without adding new features
-Run tests again to check that the refactoring did not break the tests
-No code should be written unless if it is to make a failing unit test pass
-Unit tests should be specific and precise
+Refactor code without adding new features.
+Run tests again to check that the refactoring did not break the tests.
+No code should be written unless if it is to make a failing unit test pass.
+Unit tests should be specific and precise.
 ```
 
 <h4 align='center'>
-What Tools Do I Use For Testing ?
+What Tools Do I Use For Testing ?.
 <h4>
-> Throught out Makers I have learnt to use a number of differnt testing frameworks. These are the some of the ones I normally use for my daily work.
+
+> Through out Makers, I have learnt to use a number of differnt testing frameworks. These are the some of the ones I normally use for my daily work.
+
 
 | Language        |  Testing Frame work      |Evidence |
 |:---:            | :-----:                  | :-----: | 
@@ -101,16 +103,23 @@ What Tools Do I Use For Testing ?
 |Python | <img src='https://user-images.githubusercontent.com/37377831/57584502-1ecab280-74d4-11e9-97cc-8eedeefe30c0.png' width='60'> | [Here](https://github.com/SarpongAbasimi/BowlingScoreCardPython) & [Here](https://github.com/SarpongAbasimi/FizzBuzz-Python-JavaScript-More-)|
 
 <h4 align='center'>
-List evidence you aim to collect that would together show you have credibly achieved this goal
+Evidence Collect Together To Prove To MySelf That I have Achieved This Goal.
 <h4>
  
-- My TDD process
+- My TDD process.
+  - [Asyn TDD with Makers Coach Alice.](https://github.com/SarpongAbasimi/TestingWithJest)
+  - [Process Review](https://github.com/SarpongAbasimi/ProcessWorkShopKatas)
+  - [FizzBuzz Python](https://github.com/SarpongAbasimi/FizzBuzz-Python-JavaScript-More-)
+  - [FizzBuzz JavaScript](https://github.com/SarpongAbasimi/FizzBuzz-Python-JavaScript-More-/tree/master/fizzBuzzJs)
+  - [Bowling Challenge JavaScript](https://github.com/SarpongAbasimi/bowling-challenge)
+  - [Bowling Challenge Python Attempt](https://github.com/SarpongAbasimi/BowlingScoreCardPython)
+  - [Thermostat App](https://github.com/SarpongAbasimi/ThermostatJs).
 
-- Link to process
+- Link to process.
+  - [Process review Kata](https://github.com/SarpongAbasimi/ProcessWorkShopKatas)
 
 - Screen recording of me using this process during a process review workshop.
-
-- Links to screen recording
+  - [Get Middle String](https://drive.google.com/file/d/1D9L_BFuC5YJjwWv0HVcRlxIjvZZZ6w-H/view?usp=sharing)
 
 - Commit histories that tell the test-driven process story of my applications
 
@@ -123,5 +132,11 @@ Feedback On TDD.
 <h4>
 
 <h4 align='center'>
-Projects.
+  Completed Projects Using TDD.
 <h4>
+
+- [Oystercard Challenge](https://github.com/SarpongAbasimi/oystercard).
+- [Airport Challenge](https://github.com/SarpongAbasimi/airport_challenge).
+- [TakeAway Challenge](https://github.com/SarpongAbasimi/takeaway-challenge).
+- [Rock Paper Scissors](https://github.com/SarpongAbasimi/rps-challenge).
+- [Thermostat App](https://github.com/SarpongAbasimi/ThermostatJs).
