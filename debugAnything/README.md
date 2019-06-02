@@ -4,8 +4,6 @@
 
 > What is Debugging?
 
-===========================================
-
 - ``Debugging`` is the process of following a pattern to quickly and effectively resolve a bug in a system.
 - ``A bug`` is like a **virus**, its sole purpose is to attack and stop a programme from functioning properly.
 
@@ -31,7 +29,6 @@ Thanks to The Lovely Coaches At Makers I came to understand that there are ``two
 
   > Examples of when I used these debugging techniques to solve a bug in my code base [RPS](https://github.com/SarpongAbasimi/rps-challenge), [Thermostat](https://github.com/SarpongAbasimi/ThermostatJs), [MathsKata](https://medium.com/@1550707241489/javascript-math-sign-445cbf0127aa).
 
-================================================================
 
 - To Do
   - show more debuging evidence.
