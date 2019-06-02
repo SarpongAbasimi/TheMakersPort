@@ -33,7 +33,11 @@ Thanks to The Lovely Coaches At Makers I came to understand that there are ``two
 
 ================================================================
 
-> show more debuging evidence.
+- To Do
+  - show more debuging evidence.
+  - Work through a problem and show how you will debug it.
+  - Summuray of what it means to be able to debug anything,
+
 
 > A diagram from an [article](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae) by ``Duncan Riach`` that also helped me understand what debugging is and how to debug anything
 
