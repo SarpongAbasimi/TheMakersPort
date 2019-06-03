@@ -38,18 +38,18 @@ I help my teams succeed
 - [I grow collaboratively]()
 
 <h4>
-Weekly Goals
+Personal Weekly Goals
 <h4>
 
-- [Week One]().
-- [Week Two]().
-- [Week Three]().
-- [Week Four]().
-- [Week Five]().
-- [Week Six]().
-- [Week Seven]().
-- [Week Eight]().
-- [Week Nine](https://github.com/SarpongAbasimi/ConnectExpressBackEndToReactFrontEnd).
+- [Week One](https://medium.com/@1550707241489/my-makers-journey-day-1-d9cf9a20b539). ``Learn more about Rspec and TDD``.
+- [Week Two](https://medium.com/@1550707241489/my-makers-journey-week-2-giornata-1-e751d237e5bb). ``Learn to debug codes ``.
+- [Week Three](https://github.com/SarpongAbasimi/rps-challenge). ``Learn MVC pattern ``
+- [Week Four](https://medium.com/@1550707241489/rspec-setting-up-a-test-database-777c50e54ef4).``Learn to set up a a postgres database``.
+- [Week Five](https://github.com/SarpongAbasimi/ThermostatJs). ``Learn how to use jquery``.
+- [Week Six](https://github.com/SarpongAbasimi/TestingWithJest). ``Learn how to test asyc code with jest``.
+- [Week Seven](https://github.com/SarpongAbasimi/REST-API-with-Express). ``Leanr how to create authentication system using node``.
+- [Week Eight](https://medium.com/@1550707241489/mi-sto-divertendo-un-sacco-a-maker-2573f301cd92). `` Learn more about express``.
+- [Week Nine](https://github.com/SarpongAbasimi/ConnectExpressBackEndToReactFrontEnd).``Connect Express with React``
 - [Week Ten]().
 - [Week Eleven]().
 - [Week Twelve]().

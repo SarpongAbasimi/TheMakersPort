@@ -139,7 +139,7 @@ Paring Feedback On TDD And Processes
 
 - [Feedback](https://github.com/SarpongAbasimi/Pair-Progamming-FeedBack)
 
-  - **Brenda O' Donnell** after a process review workshop.
+  - ``Brenda O' Donnell`` after a process review workshop.
   You have a good process of planning and testing your application, that is really good.
 
   - <img width="606" alt="Screen Shot 2019-06-03 at 22 21 14" src="https://user-images.githubusercontent.com/37377831/58835573-3cf87e00-864e-11e9-8402-a7207c952036.png">
