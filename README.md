@@ -49,7 +49,7 @@ Weekly Goals
 - [Week Six]().
 - [Week Seven]().
 - [Week Eight]().
-- [Week Nine]().
+- [Week Nine](https://github.com/SarpongAbasimi/ConnectExpressBackEndToReactFrontEnd).
 - [Week Ten]().
 - [Week Eleven]().
 - [Week Twelve]().

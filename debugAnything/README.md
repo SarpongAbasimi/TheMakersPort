@@ -27,7 +27,7 @@ Thanks to The Lovely Coaches At Makers I came to understand that there are ``two
 - **Tighten the loop**
   - This is the ability to narrow down a problem after gaining visibility on it to find out the exact moment an unexpected behaviour occurred. In the process of doing this, it because clear the list of elements that were causing the bug. Even though it might seem like these first steps are pointless because the problem is “obvious,” often jumping into solving the problem too soon can lead to wasted time and effort, and to a partial or non-optimal solution.
 
-  > Examples of when I used these debugging techniques to solve a bug in my code base [RPS](https://github.com/SarpongAbasimi/rps-challenge), [Thermostat](https://github.com/SarpongAbasimi/ThermostatJs), [MathsKata](https://medium.com/@1550707241489/javascript-math-sign-445cbf0127aa).
+  > Examples of when I used these debugging techniques to solve a bug in my code base [RPS](https://github.com/SarpongAbasimi/rps-challenge), [Thermostat](https://github.com/SarpongAbasimi/ThermostatJs), [Katas](https://medium.com/@1550707241489/javascript-math-sign-445cbf0127aa).
 
 
 - My Evidence For Debugging.
@@ -50,7 +50,6 @@ The method ``random_choice`` returned a random object from the array anytime it 
 By ``p``ing the function, I was able to find the solution to the problem by adding the method shown below.
 <img width="606" alt="Screen Shot 2019-04-21 at 17 17 35" src="https://user-images.githubusercontent.com/37377831/56473178-37105a00-645f-11e9-8c42-722adcbbd171.png">
 
-=====================================
 
 #### Summary
 
