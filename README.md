@@ -14,7 +14,7 @@ My Learning Goals At Makers.
 - [I can TDD anything](https://github.com/SarpongAbasimi/TheMakersPort/tree/master/tddAnyThing)
 
 - [I can program fluently](https://github.com/SarpongAbasimi/TheMakersPort/tree/master/programFleuntly)
-- [I can debug anything]()
+- [I can debug anything](https://github.com/SarpongAbasimi/TheMakersPort/tree/master/debugAnything)
 - [I can model anything]()
 - [I can refactor anything]()
 - [I have a methodical approach to solving problems]()

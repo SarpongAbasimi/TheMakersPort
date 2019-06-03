@@ -30,11 +30,37 @@ Thanks to The Lovely Coaches At Makers I came to understand that there are ``two
   > Examples of when I used these debugging techniques to solve a bug in my code base [RPS](https://github.com/SarpongAbasimi/rps-challenge), [Thermostat](https://github.com/SarpongAbasimi/ThermostatJs), [MathsKata](https://medium.com/@1550707241489/javascript-math-sign-445cbf0127aa).
 
 
-- To Do
-  - show more debuging evidence.
-  - Work through a problem and show how you will debug it.
-  - Summuray of what it means to be able to debug anything,
+- My Evidence For Debugging.
+  - In Week 3 at Makers we were given the task to create a ``Rock``, ``Paper``, ``Scissors`` for the weekend challenge. Whiles working on this project, I realised that my application was not working as wanted because of this issue.
 
+  <img width="462" alt="Screen Shot 2019-04-21 at 14 17 21" src="https://user-images.githubusercontent.com/37377831/56472971-07605280-645d-11e9-8feb-01e1959ce248.png">
+
+  <img width="415" alt="Screen Shot 2019-04-21 at 14 16 36" src="https://user-images.githubusercontent.com/37377831/56472961-ea2b8400-645c-11e9-8874-2043bc1f44f3.png">
+
+  <img width="645" alt="Screen Shot 2019-04-21 at 14 16 50" src="https://user-images.githubusercontent.com/37377831/56472981-26f77b00-645d-11e9-9deb-5c0542b484a0.png">
+
+  <img width="616" alt="Screen Shot 2019-04-21 at 14 17 01" src="https://user-images.githubusercontent.com/37377831/56472984-3c6ca500-645d-11e9-85d3-f9e67e53dbd8.png">
+
+The method ``random_choice`` returned a random object from the array anytime it is called. This meant the object being returned by ``random_choice`` in the ``choice method`` was different from the object being returned by ``random_choice`` in the ``results method``. The returned value of these two methods was being used in the view to show the shape that the computer and the user had chosen and the winner of the game, but since they all were a different random choice the real winner of the game was sometimes wrong as illustrated the image below. 
+
+<img width="404" alt="Screen Shot 2019-04-21 at 13 30 34" src="https://user-images.githubusercontent.com/37377831/56473077-21e6fb80-645e-11e9-8e0a-aac308a368ef.png">
+
+- In order to solve this problem, I had to gain visibility by ``p`` out the results of the ``random_choice `` method. This allowed me to gather enough evidence on what was happening in the application later gave me the resources to solve this bug.
+
+By ``p``ing the function, I was able to find the solution to the problem by adding the method shown below.
+<img width="606" alt="Screen Shot 2019-04-21 at 17 17 35" src="https://user-images.githubusercontent.com/37377831/56473178-37105a00-645f-11e9-8c42-722adcbbd171.png">
+
+=====================================
+
+#### Summary
+
+In several instances during my coding journey at ``Makers``, I have written lots of code and not always did I get the expected behaviours I wanted because of a bug.
+
+> Note that I was able to track down these error thanks to TDD. ``Red``, ``Green``, ``Refactor``.
+
+In order to resolve these bugs, I had to follow the ``stack trace`` given by the application and find ways of getting a clear view of what was going on in it by ``gaining visibility `` and ``tightening the loop`` on my methods. An example to a recent problem I faced while trying to connect ``Express.js`` with a ``React Application`` [Evidence](https://github.com/SarpongAbasimi/ConnectExpressBackEndToReactFrontEnd).
+
+As time went by at ``Makers`` debugging an application has become normal and natural to me and it has become part of my processes. So the statement, I can debug anything means that I am able to understand what is the expected behaviour of a program or application and notice when this behaviour is not fulfiled. Then, I am able to make a clear assumption about why this unexpected error occurred and then find ways to mitigate these assumptions. 
 
 > A diagram from an [article](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae) by ``Duncan Riach`` that also helped me understand what debugging is and how to debug anything
 
