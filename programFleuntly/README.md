@@ -35,10 +35,11 @@ To prove to myself that I can program fluently and learn any language because ``
 - **[FeedBack](https://github.com/SarpongAbasimi/Pair-Progamming-FeedBack)**
   - ``CodeWars Profile`` [Page](https://www.codewars.com/users/SarpongAbasimi)
   - **Projects** 
-    - [1][https://github.com/SarpongAbasimi/ThermostatJs].
-    - [2][https://github.com/SarpongAbasimi/instagram-challenge].
+    - [1](https://github.com/SarpongAbasimi/ThermostatJs).
+    - [2](https://github.com/SarpongAbasimi/instagram-challenge).
     - [3](https://github.com/SarpongAbasimi/NewsSummaryApp).
     - [4](https://github.com/SarpongAbasimi/bowling-challenge).
+
 The other side of progamming fluently, is the ability to translate human language such as specification or user stories into code and to write code using the best practices such as Test Driven Development, Don’t Repeat Yourself, and Single Responsibility. In other words, keep in mind the person that may use your user interface as a user and your code as a software developer.
 
 Having faced different challenges at Makers for setting up ``Travis `` to ``Database setup`` to ``Making a facebook clone `` and ``paring with different people everyday ``, I have learnt how to approach programming challenges, ``craft programmes`` and on top of all ``work in a team ``and contribute to the ``success of my team``. This why I say that I can programme fluently.
