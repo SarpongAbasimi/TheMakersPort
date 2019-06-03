@@ -62,6 +62,14 @@ In order to resolve these bugs, I had to follow the ``stack trace`` given by the
 
 As time went by at ``Makers`` debugging an application has become normal and natural to me and it has become part of my processes. So the statement, I can debug anything means that I am able to understand what is the expected behaviour of a program or application and notice when this behaviour is not fulfiled. Then, I am able to make a clear assumption about why this unexpected error occurred and then find ways to mitigate these assumptions. 
 
-> A diagram from an [article](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae) by ``Duncan Riach`` that also helped me understand what debugging is and how to debug anything
+<h4 align='center'>
+Projects That Illustrates My Debugging Skills.
+</h4>
+
+- [ReactExpressApplication](https://github.com/SarpongAbasimi/ConnectExpressBackEndToReactFrontEnd).
+- [NewsSummary](https://github.com/SarpongAbasimi/NewsSummaryApp).
+- [ThermostartApp](https://github.com/SarpongAbasimi/ThermostatJs)
+
+> A diagram from an [article](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae) by ``Duncan Riach`` that also helped me understand what debugging is and how to debug anything.
 
 ![1*zr0dAx65hHcfirrmq5zEDg](https://user-images.githubusercontent.com/37377831/58765536-eadf2c00-856b-11e9-9f80-27ea6a0f9b34.png)
