@@ -43,7 +43,7 @@ Personal Weekly Goals
 
 - [Week One](https://medium.com/@1550707241489/my-makers-journey-day-1-d9cf9a20b539). ``Learn more about Rspec and TDD``.
 - [Week Two](https://medium.com/@1550707241489/my-makers-journey-week-2-giornata-1-e751d237e5bb). ``Learn to debug codes ``.
-- [Week Three](https://github.com/SarpongAbasimi/rps-challenge). ``Learn MVC pattern ``
+- [Week Three](https://github.com/SarpongAbasimi/rps-challenge). ``Learn and understand the MVC pattern``.
 - [Week Four](https://medium.com/@1550707241489/rspec-setting-up-a-test-database-777c50e54ef4).``Learn to set up a a postgres database``.
 - [Week Five](https://github.com/SarpongAbasimi/ThermostatJs). ``Learn how to use jquery``.
 - [Week Six](https://github.com/SarpongAbasimi/TestingWithJest). ``Learn how to test asyc code with jest``.
